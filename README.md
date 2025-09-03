@@ -11,7 +11,6 @@ A simple web-based currency converter application built using **HTML**, **CSS**,
 - 🔠 Font Awesome icons for better UI  
 - 🔄 Support for multiple currencies (INR, USD, EUR, GBP, etc.)  
 - 🧮 User-defined amount input  
-- 📱 Responsive design  
 - ⚠️ Basic error handling  
 
 ---
