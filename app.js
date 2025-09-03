@@ -1,5 +1,4 @@
-const BASE_URL =
-  "https://api.frankfurter.app";
+const BASE_URL = "https://api.frankfurter.app";
 
 const dropdowns = document.querySelectorAll(".dropdown select");
 const btn = document.querySelector("form button");
