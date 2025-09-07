@@ -7,14 +7,14 @@ body{
     justify-content: center;
     align-items: center;
     min-height: 100vh;
-    background: linear-gradient(to top, #af4d98, #28AFB0);
+    background: linear-gradient(to bottom, #af4d90, #DDCECD);
 }
 h2{
     width: auto;
     text-align: center;
 }
 .container{
-    background:linear-gradient(to bottom, #8467ee, #DDCECD);
+    background:linear-gradient(to bottom, #af4e99, #DDCECD);
     padding: 2rem;
     border-radius: 1rem;
     min-height: 44vh;
@@ -50,6 +50,7 @@ form input{
 .select-container img{
     max-width: 2rem;
     max-height: 2rem;
+    border-radius: 50%;
 }
 .select-container{
     display: flex;
